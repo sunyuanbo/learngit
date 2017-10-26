@@ -2,5 +2,5 @@ Git is a version control system.
 Git is free soft.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git is very good version control system tool.
-Sun yuanbo is using Git tool.
+Git has a mutable index called stage.
+
